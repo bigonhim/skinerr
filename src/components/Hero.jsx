@@ -17,7 +17,7 @@ const Hero = () => {
             <div className='flex  flex-col gap-6 mt-28 z-20 max-w-[350px] md:max-w-2xl lg:ml-25'>
                   <h1 className='text-tertiary font-secondary text-[15px] font-medium'>Introducing Skiner</h1>
                   <h2 className="text-primary font-primary md:text-[60px] sm:text-[40px] text-[30px] font-bold leading-tight">
-                    <span className="block">Beauty Has a Purpose,</span>
+                    <span className="block"> Beauty Has No Purpose,</span>
                     <span className="block">and purpose is you</span>
                     </h2>
                     <p
